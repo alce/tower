@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BackgroundReady","Drives a service to readiness."]]});

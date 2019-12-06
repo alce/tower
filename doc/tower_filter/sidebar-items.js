@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["error","Error types"],["future","Future types"]],"struct":[["Filter","Conditionally dispatch requests to the inner service based on a predicate."],["FilterLayer","Conditionally dispatch requests to the inner service based on a predicate."]],"trait":[["Predicate","Checks a request"]]});

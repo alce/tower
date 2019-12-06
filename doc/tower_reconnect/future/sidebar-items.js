@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ResponseFuture","Future that resolves to the response or failure to connect."]]});
